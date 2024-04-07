@@ -180,6 +180,17 @@ Unit testing reduces the possibility of getting bugs.
 
 ## 08. Api-Rest
 
+API: mediates the interation of a 'consumer' and a system. 
+
+REST API: it´s and API that conforms a set of guidelines.
+
+REST Guidelines:
+
+Resource: piece of data that you can name.
+URI: identifies the location of a resorce.
+Defines operations that can manipulate resources: GET, POST, PUT, DELETE.
+The resource is (most often) represented using JSON.
+
 ## 09. Sql
 
 ## 10. Security
